@@ -9,7 +9,7 @@
 ## 🚀 Active Project Roadmap (7-Month Mastery)
 I am systematically building a 4-tiered defensive portfolio mapped to Multinational Corporation (MNC) scaling infrastructures:
 
-1. **[Enterprise Network Triage Engine]**: Headless Tshark and Bash processing framework to ingest, clean, and screen massive `.pcap` traffic caches without crashing system UI. (Completed)
+1. **[Enterprise Network Triage Engine](https://github.com/Shellss15/Mani/blob/main/README.md)-**: Headless Tshark and Bash processing framework to ingest, clean, and screen massive `.pcap` traffic caches without crashing system UI. (Completed)
 2. **Enterprise Detection Engineering Blueprint**: (In Progress - Month 4 Target) A centralized database of Splunk SPL and Sentinel KQL hunting patterns mapped directly to CrowdStrike Falcon indicators and the MITRE ATT&CK matrix.
 3. **Autonomous Threat Enrichment Engine**: (Upcoming - Month 5 Target) Python utility to communicate with external APIs to triage indicators automatically.
 4. **AI-Orchestrated Incident Pipeline**: (Upcoming - Month 7 Target) Live Shuffle SOAR pipeline pulling logs, checking intelligence, and using local AI language models to auto-generate triage summaries.
