@@ -18,4 +18,4 @@ I am systematically building a 4-tiered defensive portfolio mapped to Multinatio
 Rather than pursuing theoretical certifications, my background focuses on verified hands-on capability. I balance production-ready GitHub repositories with practical, simulation-based industry badges.
 
 - **Current Study Focus:** Microsoft SC-200 (Security Operations) & TryHackMe SAL1 Practical Exam Preparation.
-- **Connect with Me:** email- mridulshekhar15@gmail.com LinkedIn:- xxx
+- **Connect with Me:** email- mridulshekhar15@gmail.com LinkedIn:- https://www.linkedin.com/in/mridul-tiwari-7a554241a/
